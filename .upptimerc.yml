@@ -14,6 +14,11 @@ sites:
     port: 4444
     #check: "tcp-ping"
     #ipv6: true
+  - name: Облако6
+    url: cloud.romax-host.ru:4444
+    #port: 4444
+    check: "tcp-ping"
+    ipv6: true
   - name: Управление VPS
     url: https://pve.helpy4.ru
 
