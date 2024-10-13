@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Панель
+  - name: "Панель"
     url: https://panel.helpy4.ru
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
