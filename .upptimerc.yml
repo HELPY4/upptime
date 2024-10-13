@@ -7,38 +7,17 @@ sites:
     url: https://www.google.com
   - name: Cloudflare
     url: https://cloudflare.com
-  - name: Панель
+  - name: Панель panel.helpy4.ru
     url: https://panel.helpy4.ru
-  - name: Панельт
-    url: https://panel.helpy4.ru
-    check: "tcp-ping"
-    #ipv6: true
-  - name: Панель6
-    url: https://panel.helpy4.ru
-    #check: "tcp-ping"
     ipv6: true
-  - name: Облако
+  - name: Облако cloud.romax-host.ru
     url: cloud.romax-host.ru
     port: 4444
-    #check: "tcp-ping"
-    #ipv6: true
-  - name: Облако4444
-    url: cloud.romax-host.ru:4444
-    #port: 4444
-    #check: "tcp-ping"
-    #ipv6: true
-  - name: Облако6
-    url: cloud.romax-host.ru
-    port: 4444
-    #check: "tcp-ping"
-    ipv6: true
-  - name: Облако44446
-    url: cloud.romax-host.ru:4444
-    #port: 4444
     #check: "tcp-ping"
     ipv6: true
   - name: Управление VPS
     url: https://pve.helpy4.ru
+    ipv6: true
 
 i18n:
   activeIncidents: Incidentes activos
