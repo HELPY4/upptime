@@ -17,7 +17,7 @@ sites:
     ipv6: true
   - name: Управление хостингом
     url: https://pve.helpy4.ru
-    ipv6: true
+    #ipv6: true
 
 i18n:
   allSystemsOperational: Все системы работают.
