@@ -22,10 +22,10 @@
     "url": "https://panel.helpy4.ru",
     "icon": "https://icons.duckduckgo.com/ip3/panel.helpy4.ru.ico",
     "slug": "panel-panel-helpy4-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
     "time": 759,
@@ -34,6 +34,7 @@
     "timeMonth": 759,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2024-11-02": 2,
       "2024-10-22": 28,
       "2024-10-17": 72
     }
@@ -43,10 +44,10 @@
     "url": "cloud.romax-host.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oblako-cloud-romax-host-ru-4444",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
     "time": 687,
@@ -55,6 +56,7 @@
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2024-11-02": 2,
       "2024-10-22": 27,
       "2024-10-17": 71
     }
@@ -64,9 +66,9 @@
     "url": "https://pve.helpy4.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pve.helpy4.ru.ico",
     "slug": "upravlenie-hostingom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -76,6 +78,7 @@
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-10-22": 26,
       "2024-10-17": 70
     }
